@@ -1,37 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:anchor="https://anchor.fm/xmlns">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title>
-			<![CDATA[Die Schulhofbrenner - Der Retro Podcast]]>
-		</title>
-		<description>
-			<![CDATA[Der Computer-Retro-Podcast über Computer, Games und Gadgets Mitte der 90er bis Anfang 2000er Jahre mit Gunnar und Chris.
+		<title><![CDATA[Die Schulhofbrenner - Der Retro Podcast]]></title>
+		<description><![CDATA[Der Computer-Retro-Podcast über Computer, Games und Gadgets Mitte der 90er bis Anfang 2000er Jahre mit Gunnar und Chris.
 
-Mehr Infos unter https://linktr.ee/schulhofbrenner.]]>
-		</description>
-		<link>https://linktr.ee/schulhofbrenner</link>
+Mehr Infos unter https://linktr.ee/schulhofbrenner.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner</link>
 		<image>
-			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17552980/17552980-1658077539996-eed1ec4bbb197.jpg</url>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17552980/17552980-1682275927243-d8404abaa2463.jpg</url>
 			<title>Die Schulhofbrenner - Der Retro Podcast</title>
-			<link>https://linktr.ee/schulhofbrenner</link>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 17 Jul 2022 17:08:32 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 23 Apr 2023 18:54:12 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/69384f50/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author>
-			<![CDATA[Retro PCs, Spiele & Co]]>
-		</author>
-		<copyright>
-			<![CDATA[Retro PCs, Spiele & Co]]>
-		</copyright>
-		<language>
-			<![CDATA[de]]>
-		</language>
+		<author><![CDATA[Retro PCs, Spiele & Co]]></author>
+		<copyright><![CDATA[Retro PCs, Spiele & Co]]></copyright>
+		<language><![CDATA[de]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>Retro PCs, Spiele &amp; Co</itunes:author>
 		<itunes:summary>Der Computer-Retro-Podcast über Computer, Games und Gadgets Mitte der 90er bis Anfang 2000er Jahre mit Gunnar und Chris.
@@ -50,26 +34,68 @@ Mehr Infos unter https://linktr.ee/schulhofbrenner.</itunes:summary>
 		<itunes:category text="News">
 			<itunes:category text="Tech News"/>
 		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17552980/17552980-1658077539996-eed1ec4bbb197.jpg"/>
-				<item>
-			<title>
-				<![CDATA[#07 - Bleifuss Fun]]>
-			</title>
-			<description>
-				<![CDATA[<p>Poliert eure Tastaturen und schnallt euch an: Spaß bis zum Abwinken! Das war und ist <strong>Bleifuss Fun</strong>! Kaum ein anderes Spiel hat in den späten Neunzigern bei uns beiden für mehr <strong>Multiplayer-Spaß am Rechner</strong> gesorgt.<br><br>
-Wir beide beamen uns zurück zu einem unserer ersten Treffen vor 25 Jahren und sinnieren über ein Spiel, dass uns fluchen, jubeln und knirschen ließ. Von den <strong>abgefahrenen Fahrzeugen</strong> bis hin zu den <strong>detailreichen Strecken</strong> und Background-Storys ist hier alles für Fans dieses Spiels dabei. Und solltet ihr diesen Fun Racer doch nicht kennen, werdet ihr es spätestens nach unserem <strong>Youtube-Battle</strong> und dieser Folge kennenlernen. Versprochen! Außerdem werden einige Hörer ihre Erinnerungen an das Spiel mit uns teilen.<br><br>
-Welche <strong>Rennspiele aus der Epoche</strong> kennt ihr noch? Bei der <strong>allseits beliebten Rätselrunde</strong> darf Chris Menü-Sounds damaliger Rennspiele erraten. Wie er sich schlägt und ob ein Preis winkt, erfahrt Ihr in dieser Episode.<br><br>
-Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong> auf Apple Podcast oder Spotify oder <strong>teilt sie</strong> mit euren Freunden.</p><p><strong>Lizenz</strong></p><ol><li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li></ol>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17552980/17552980-1682275927243-d8404abaa2463.jpg"/>
+		<item>
+			<title><![CDATA[#08 - Werbespiele der 90er (feat. Grobe Pixel)]]></title>
+			<description><![CDATA[<p>Nach einem längeren kreativen Leerlauf starten wir die Retro-Rechner wieder voll durch. In einer <strong>Crossover-Folge</strong> mit Wolfang vom <a href="https://grobepixel.de" target="_blank" rel="noopener noreferer">Grobe Pixel Podcast</a> erinnern wir uns an die <strong>wunderbare Zeit der Werbespiele</strong>.</p>
+<p>Wisst ihr noch als Wurstsnacks, Bundesparteien oder Finanzprodukte in ihren eigenen Computerspielen beworben wurden? Advergames wie das Telekommando, Victor Loomes, Captain Zins oder Dunkle Schatten sind nur ein paar der <strong>Werbeklassiker der 90er Jahre</strong>.</p>
+<p>Wolfgang und Chris <strong>berichten von ihren Lieblingsspielen</strong> und in der <strong>allseits beliebten Rätselrunde wird heiß diskutiert</strong>, welche skurrilen Spiele es tatsächlich gab.</p>
+<p>Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong>auf Apple Podcast oder Spotify oder <strong>teilt sie</strong> mit euren Freunden.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">⁠Kupa⁠</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">⁠Dragan Espenschied⁠</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+</ol>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/07---Bleifuss-Fun-e1lb48u</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/08---Werbespiele-der-90er-feat--Grobe-Pixel-e22spmq</link>
+			<guid isPermaLink="false">79d9c321-fe17-41f9-b58d-49d86dc3a145</guid>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
+			<pubDate>Sun, 23 Apr 2023 17:00:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/69149850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-23%2F3f3ca4ed-3735-fbce-c51e-cd237c3cf036.m4a" length="218774344" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Nach einem längeren kreativen Leerlauf starten wir die Retro-Rechner wieder voll durch. In einer &lt;strong&gt;Crossover-Folge&lt;/strong&gt; mit Wolfang vom &lt;a href=&quot;https://grobepixel.de&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Grobe Pixel Podcast&lt;/a&gt; erinnern wir uns an die &lt;strong&gt;wunderbare Zeit der Werbespiele&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Wisst ihr noch als Wurstsnacks, Bundesparteien oder Finanzprodukte in ihren eigenen Computerspielen beworben wurden? Advergames wie das Telekommando, Victor Loomes, Captain Zins oder Dunkle Schatten sind nur ein paar der &lt;strong&gt;Werbeklassiker der 90er Jahre&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Wolfgang und Chris &lt;strong&gt;berichten von ihren Lieblingsspielen&lt;/strong&gt; und in der &lt;strong&gt;allseits beliebten Rätselrunde wird heiß diskutiert&lt;/strong&gt;, welche skurrilen Spiele es tatsächlich gab.&lt;/p&gt;
+&lt;p&gt;Wenn euch unser Podcast gefällt, dann &lt;strong&gt;folgt uns&lt;/strong&gt; auf Instagram, Facebook, Twitter oder Youtube, &lt;strong&gt;bewertet die Sendung&lt;/strong&gt;auf Apple Podcast oder Spotify oder &lt;strong&gt;teilt sie&lt;/strong&gt; mit euren Freunden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lizenz&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+ &lt;li&gt;&lt;strong&gt;Tanooki&lt;/strong&gt; von &lt;a href=&quot;https://freemusicarchive.org/music/Kupa&quot;&gt;⁠Kupa⁠&lt;/a&gt; ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Procrastination Polka&lt;/strong&gt; von &lt;a href=&quot;https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist&quot;&gt;⁠Dragan Espenschied⁠&lt;/a&gt; ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.&lt;/li&gt;
+&lt;/ol&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:48:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/17552980/17552980-1682268173688-380e5f0817db2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#07 - Bleifuss Fun]]></title>
+			<description><![CDATA[<p>Poliert eure Tastaturen und schnallt euch an: Spaß bis zum Abwinken! Das war und ist <strong>Bleifuss Fun</strong>! Kaum ein anderes Spiel hat in den späten Neunzigern bei uns beiden für mehr <strong>Multiplayer-Spaß am Rechner</strong> gesorgt.<br>
+<br>
+Wir beide beamen uns zurück zu einem unserer ersten Treffen vor 25 Jahren und sinnieren über ein Spiel, dass uns fluchen, jubeln und knirschen ließ. Von den <strong>abgefahrenen Fahrzeugen</strong> bis hin zu den <strong>detailreichen Strecken</strong> und Background-Storys ist hier alles für Fans dieses Spiels dabei. Und solltet ihr diesen Fun Racer doch nicht kennen, werdet ihr es spätestens nach unserem <strong>Youtube-Battle</strong> und dieser Folge kennenlernen. Versprochen! Außerdem werden einige Hörer ihre Erinnerungen an das Spiel mit uns teilen.<br>
+<br>
+Welche <strong>Rennspiele aus der Epoche</strong> kennt ihr noch? Bei der <strong>allseits beliebten Rätselrunde</strong> darf Chris Menü-Sounds damaliger Rennspiele erraten. Wie er sich schlägt und ob ein Preis winkt, erfahrt Ihr in dieser Episode.<br>
+<br>
+Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong> auf Apple Podcast oder Spotify oder <strong>teilt sie</strong> mit euren Freunden.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+</ol>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/07---Bleifuss-Fun-e1lb48u</link>
 			<guid isPermaLink="false">7f181c26-059e-467a-b5cb-f3dcffc4159a</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Sun, 17 Jul 2022 16:44:03 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/54939358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-18%2F78d20bf6-c772-c58d-ce05-f0905b8805d3.m4a" length="87724471" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Poliert eure Tastaturen und schnallt euch an: Spaß bis zum Abwinken! Das war und ist &lt;strong&gt;Bleifuss Fun&lt;/strong&gt;! Kaum ein anderes Spiel hat in den späten Neunzigern bei uns beiden für mehr &lt;strong&gt;Multiplayer-Spaß am Rechner&lt;/strong&gt; gesorgt.&lt;br&gt;
@@ -87,34 +113,38 @@ Wenn euch unser Podcast gefällt, dann &lt;strong&gt;folgt uns&lt;/strong&gt; au
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:duration>2538</itunes:duration>
+			<itunes:duration>00:42:18</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/17552980/17552980-1658060098908-79c297529a211.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>7</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>
-				<![CDATA[#06 - Handys]]>
-			</title>
-			<description>
-				<![CDATA[<p><em>"Ich lass anklingeln! Hab kein Guthaben mehr!"</em> Ging es euch nicht auch so mit eurem ersten eigenen Handy? Ein <strong>Prepaid-Handy</strong> mit 20 Mark fürs Telefonieren oder SMS schreiben?<br><br>
-Wir beide sinnieren in dieser Folge über unsere ersten Berührungspunkte mit dem Thema <strong>Handy, Mobilfunk-Provider, SMS und Co</strong>. Von Chris' ersten Siemens Handy (mit Party-Funktion) bis hin zu Kuriositäten à la Nokia 7er Serie haben wir unsere Prepaid-Vergangenheit aufgearbeitet und möchten euch daran teilhaben lassen. Keine Sorge: Gunnar wird nicht seine gesamte Handyliste (19 Stück!) durchgehen, schließlich haben wir nur eine Stunde aufgenommen *fg*.<br><br>
-Und was wäre eine Schulhofbrenner-Folge ohne die <strong>allseits beliebte Rätselrunde</strong>? Chris hat einige Hits aus unserer Jugend in Form von <strong>monophonen Klingeltönen</strong> parat. Wie Gunnar sich schlägt, hört ihr am besten selbst.<br><br>
-Also lasst euch überraschen und taucht ein in die Welt von <strong>Snake, Jamba und WAP</strong>.<br><br>
-Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong> auf Apple Podcast oder Spotify oder <strong>teilt sie</strong> mit euren Freunden.</p><p><strong>Lizenz</strong></p><ol><li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li><li><strong>Cover-Foto</strong> mit Genehmigung von <a href="https://www.instagram.com/stoveloni/" target="_blank">stoveloni</a>.</li></ol>
+			<title><![CDATA[#06 - Handys]]></title>
+			<description><![CDATA[<p><em>"Ich lass anklingeln! Hab kein Guthaben mehr!"</em> Ging es euch nicht auch so mit eurem ersten eigenen Handy? Ein <strong>Prepaid-Handy</strong> mit 20 Mark fürs Telefonieren oder SMS schreiben?<br>
+<br>
+Wir beide sinnieren in dieser Folge über unsere ersten Berührungspunkte mit dem Thema <strong>Handy, Mobilfunk-Provider, SMS und Co</strong>. Von Chris' ersten Siemens Handy (mit Party-Funktion) bis hin zu Kuriositäten à la Nokia 7er Serie haben wir unsere Prepaid-Vergangenheit aufgearbeitet und möchten euch daran teilhaben lassen. Keine Sorge: Gunnar wird nicht seine gesamte Handyliste (19 Stück!) durchgehen, schließlich haben wir nur eine Stunde aufgenommen *fg*.<br>
+<br>
+Und was wäre eine Schulhofbrenner-Folge ohne die <strong>allseits beliebte Rätselrunde</strong>? Chris hat einige Hits aus unserer Jugend in Form von <strong>monophonen Klingeltönen</strong> parat. Wie Gunnar sich schlägt, hört ihr am besten selbst.<br>
+<br>
+Also lasst euch überraschen und taucht ein in die Welt von <strong>Snake, Jamba und WAP</strong>.<br>
+<br>
+Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong> auf Apple Podcast oder Spotify oder <strong>teilt sie</strong> mit euren Freunden.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+ <li><strong>Cover-Foto</strong> mit Genehmigung von <a href="https://www.instagram.com/stoveloni/" target="_blank">stoveloni</a>.</li>
+</ol>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/06---Handys-e1h7fcl</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/06---Handys-e1h7fcl</link>
 			<guid isPermaLink="false">f49dad73-ab37-414f-8704-e53280ca61ec</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Fri, 15 Apr 2022 17:59:35 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/50625365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-15%2Fc14f795e-ba7e-16bd-cd4b-9164e40113fb.m4a" length="116208585" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;&lt;em&gt;&quot;Ich lass anklingeln! Hab kein Guthaben mehr!&quot;&lt;/em&gt; Ging es euch nicht auch so mit eurem ersten eigenen Handy? Ein &lt;strong&gt;Prepaid-Handy&lt;/strong&gt; mit 20 Mark fürs Telefonieren oder SMS schreiben?&lt;br&gt;
@@ -135,30 +165,34 @@ Wenn euch unser Podcast gefällt, dann &lt;strong&gt;folgt uns&lt;/strong&gt; au
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:duration>3422</itunes:duration>
+			<itunes:duration>00:57:02</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/17552980/17552980-1650483699850-0d86ec75c6e33.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>6</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>
-				<![CDATA[#05 - ICQ, MSN & Co]]>
-			</title>
-			<description>
-				<![CDATA[<p>Welcome 2022! Aber was ist das? <em>Aaah-Ooooh</em>: Hier erreicht uns erstmal eine Nachricht aus dem letzten Jahrtausend. Diesen Ton kennt wohl jeder, der schon einmal ICQ installiert hat.</p><p>In dieser Episode erinnern wir uns zusammen mit euch an die wilden Zeiten des <strong>Instant Messaging</strong>. Beginnend mit den Anfängen von ICQ über MSN und die verschiedensten Funktionen der Messenger-Dienste zu dieser Zeit. Die ersten Flirtversuche auf Chat-Ebene und diverser Spielchen inklusive. Außerdem klären wir, welche Messenger damals noch populär waren und wir klären, wie man AIM ausspricht.</p><p>Was wäre eine Schulhofbrenner-Folge ohne <strong>die allseits beliebte Rätselrunde</strong>? Chris frischt an dieser Stelle seine Gehirnzellen wieder mit einigen geläufigen und weniger geläufigen Abkürzungen aus der Welt des Chattens Ende der 90er auf.</p><p>Auch diese Folge lebt von Euren Erfahrungen: Vielen Dank an dieser Stelle für die <strong>vielen Voice-Messages</strong>, die uns erreicht haben. Immer wieder schön, eure Sicht von damals zu hören!</p><p>Wenn euch unser Podcast gefällt, dann folgt uns auf Instagram, Facebook, Twitter oder Youtube, bewertet die Sendung auf Apple Podcast oder Spotify oder teilt sie mit euren Freunden.</p><p>Lizenz</p><ul><li>Tanooki von<a href="https://freemusicarchive.org/music/Kupa"><u>Kupa</u></a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li>Procrastination Polka von<a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist"><u>Dragan Espenschied</u></a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li><li><a href="https://www.instagram.com/p/CTNEz5_L4oK/?utm_source=ig_web_copy_link">Foto</a> mit Genehmigung von <a href="https://www.instagram.com/scottayedesign/"><u>scottayedesign</u></a>. Das Material wurde in veränderter Form für das Episoden-Cover verwendet.</li></ul>
+			<title><![CDATA[#05 - ICQ, MSN & Co]]></title>
+			<description><![CDATA[<p>Welcome 2022! Aber was ist das? <em>Aaah-Ooooh</em>: Hier erreicht uns erstmal eine Nachricht aus dem letzten Jahrtausend. Diesen Ton kennt wohl jeder, der schon einmal ICQ installiert hat.</p>
+<p>In dieser Episode erinnern wir uns zusammen mit euch an die wilden Zeiten des <strong>Instant Messaging</strong>. Beginnend mit den Anfängen von ICQ über MSN und die verschiedensten Funktionen der Messenger-Dienste zu dieser Zeit. Die ersten Flirtversuche auf Chat-Ebene und diverser Spielchen inklusive. Außerdem klären wir, welche Messenger damals noch populär waren und wir klären, wie man AIM ausspricht.</p>
+<p>Was wäre eine Schulhofbrenner-Folge ohne <strong>die allseits beliebte Rätselrunde</strong>? Chris frischt an dieser Stelle seine Gehirnzellen wieder mit einigen geläufigen und weniger geläufigen Abkürzungen aus der Welt des Chattens Ende der 90er auf.</p>
+<p>Auch diese Folge lebt von Euren Erfahrungen: Vielen Dank an dieser Stelle für die <strong>vielen Voice-Messages</strong>, die uns erreicht haben. Immer wieder schön, eure Sicht von damals zu hören!</p>
+<p>Wenn euch unser Podcast gefällt, dann folgt uns auf Instagram, Facebook, Twitter oder Youtube, bewertet die Sendung auf Apple Podcast oder Spotify oder teilt sie mit euren Freunden.</p>
+<p>Lizenz</p>
+<ul>
+ <li>Tanooki von<a href="https://freemusicarchive.org/music/Kupa"> <u>Kupa</u></a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li>Procrastination Polka von<a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist"> <u>Dragan Espenschied</u></a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+ <li><a href="https://www.instagram.com/p/CTNEz5_L4oK/?utm_source=ig_web_copy_link">Foto</a> mit Genehmigung von <a href="https://www.instagram.com/scottayedesign/"><u>scottayedesign</u></a>. Das Material wurde in veränderter Form für das Episoden-Cover verwendet.</li>
+</ul>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/05---ICQ--MSN--Co-e1ecn90</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/05---ICQ--MSN--Co-e1ecn90</link>
 			<guid isPermaLink="false">fdd5c93c-b3aa-4946-b77e-c73c29234a9c</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Mon, 14 Feb 2022 17:58:52 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/47651552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-24%2F945e9b73-4b05-f639-ffb5-b2857a63a011.m4a" length="128285684" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Welcome 2022! Aber was ist das? &lt;em&gt;Aaah-Ooooh&lt;/em&gt;: Hier erreicht uns erstmal eine Nachricht aus dem letzten Jahrtausend. Diesen Ton kennt wohl jeder, der schon einmal ICQ installiert hat.&lt;/p&gt;
@@ -175,30 +209,34 @@ Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:duration>3799</itunes:duration>
+			<itunes:duration>01:03:19</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/17552980/17552980-1645730753978-64a222adf60eb.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>5</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>
-				<![CDATA[#04 - Weihnachtserinnerungen]]>
-			</title>
-			<description>
-				<![CDATA[<p>Endlich ist sie da! Episode 4 – oder sollten wir vielleicht lieber von der <strong>Weihnachtsfolge</strong> sprechen?</p><p>Viele <strong>Sprachnachrichten</strong> haben uns zum Thema <strong>„Weihnachtsgeschenke der 90er und 2000er“</strong> erreicht. Wir schwelgen mit euch in Erinnerungen an Videospiele, Hardware und Gadgets längst vergangener Zeiten: Die erste Hifi-Anlage, der langersehnte <strong>DSL-Anschluss</strong> oder auch Games wie <strong>Command &amp; Conquer</strong>, <strong>GTA 2</strong> oder <strong>Monkey Island 3</strong>.</p><p>Zu einer standesgemäßen Schulhofbrenner-Folge gehört auch die <strong>allseits beliebte Rätselrunde</strong>. Chris hat sehr tief in der <strong>Game-Sound-Kiste</strong> gekramt, also spitzt eure Ohren und ratet mit.</p><p>Die Schulhofbrenner wünschen ein famoses Weihnachsfest mit vielen Retro-Geschenken und einen guten Rutsch ins neue Jahr 2022. Mit unserer Folge beamen wir uns dann wieder 20 Jahre zurück.</p><p>Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong> auf Apple Podcast oder Spotify oder <strong>teilt sie mit euren Freunden</strong>.</p><p><strong>Lizenz</strong></p><ol><li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li><li><strong>Cover-Foto</strong> mit Genehmigung von <a href="https://www.instagram.com/stoveloni/" target="_blank">stoveloni</a>.</li></ol>
+			<title><![CDATA[#04 - Weihnachtserinnerungen]]></title>
+			<description><![CDATA[<p>Endlich ist sie da! Episode 4 – oder sollten wir vielleicht lieber von der <strong>Weihnachtsfolge</strong> sprechen?</p>
+<p>Viele <strong>Sprachnachrichten</strong> haben uns zum Thema <strong>„Weihnachtsgeschenke der 90er und 2000er“</strong> erreicht. Wir schwelgen mit euch in Erinnerungen an Videospiele, Hardware und Gadgets längst vergangener Zeiten: Die erste Hifi-Anlage, der langersehnte <strong>DSL-Anschluss</strong> oder auch Games wie <strong>Command &amp; Conquer</strong>, <strong>GTA 2</strong> oder <strong>Monkey Island 3</strong>.</p>
+<p>Zu einer standesgemäßen Schulhofbrenner-Folge gehört auch die <strong>allseits beliebte Rätselrunde</strong>. Chris hat sehr tief in der <strong>Game-Sound-Kiste</strong> gekramt, also spitzt eure Ohren und ratet mit.</p>
+<p>Die Schulhofbrenner wünschen ein famoses Weihnachsfest mit vielen Retro-Geschenken und einen guten Rutsch ins neue Jahr 2022. Mit unserer Folge beamen wir uns dann wieder 20 Jahre zurück.</p>
+<p>Wenn euch unser Podcast gefällt, dann <strong>folgt uns</strong> auf Instagram, Facebook, Twitter oder Youtube, <strong>bewertet die Sendung</strong> auf Apple Podcast oder Spotify oder <strong>teilt sie mit euren Freunden</strong>.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+  <li><strong>Cover-Foto</strong> mit Genehmigung von <a href="https://www.instagram.com/stoveloni/" target="_blank">stoveloni</a>.</li>
+</ol>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/04---Weihnachtserinnerungen-e1c56gn</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/04---Weihnachtserinnerungen-e1c56gn</link>
 			<guid isPermaLink="false">b18205e8-3c42-480e-8935-e3f27fc47522</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Sat, 25 Dec 2021 10:49:32 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/45307863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-25%2Ff4a86574-e574-df49-8a44-5071ab546fde.m4a" length="119193286" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Endlich ist sie da! Episode 4 – oder sollten wir vielleicht lieber von der &lt;strong&gt;Weihnachtsfolge&lt;/strong&gt; sprechen?&lt;/p&gt;
@@ -215,30 +253,33 @@ Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>3610</itunes:duration>
+			<itunes:duration>01:00:10</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/17552980/17552980-1640428775619-bf619aad3fd7a.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>
-				<![CDATA[#03 - Mein Retro-Computer & Portable Music Devices]]>
-			</title>
-			<description>
-				<![CDATA[<p>In Folge 3 der Schulhofbrenner quatschen wir über unsere Erfahrungen rund um den <strong>Bau eines Retro-Computers</strong>. Worauf haben wir geachtet und wo findet man überhaupt noch Komponenten?</p><p>Außerdem erinnern wir uns daran, wie wir damals Musik gehört haben. Ob <strong>MiniDisc, CD oder Mp3</strong>. Tausendundeine Möglichkeit die Hits unserer Jugend zu hören.</p><p>Unsere <strong>Kategorie „Entscheide Dich“</strong> darf natürlich auch nicht fehlen und weckt bei euch vielleicht auch das ein oder andere Retro-Feeling.</p><p>Wir freuen uns, wenn ihr uns auf Instagram, Facebook, Twitter oder auch Youtube folgt oder uns ein Review auf Apple Podcast schreibt.</p><p><strong>Lizenz</strong></p><ol><li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li><li><strong>Cover-Foto</strong> mit Genehmigung von Hugo Rodriguez (<a href="http://walkman-archive.com">The Walkman Archive</a>).</li></ol>
+			<title><![CDATA[#03 - Mein Retro-Computer & Portable Music Devices]]></title>
+			<description><![CDATA[<p>In Folge 3 der Schulhofbrenner quatschen wir über unsere Erfahrungen rund um den <strong>Bau eines Retro-Computers</strong>. Worauf haben wir geachtet und wo findet man überhaupt noch Komponenten?</p>
+<p>Außerdem erinnern wir uns daran, wie wir damals Musik gehört haben. Ob <strong>MiniDisc, CD oder Mp3</strong>. Tausendundeine Möglichkeit die Hits unserer Jugend zu hören.</p>
+<p>Unsere <strong>Kategorie „Entscheide Dich“</strong> darf natürlich auch nicht fehlen und weckt bei euch vielleicht auch das ein oder andere Retro-Feeling.</p>
+<p>Wir freuen uns, wenn ihr uns auf Instagram, Facebook, Twitter oder auch Youtube folgt oder uns ein Review auf Apple Podcast schreibt.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+  <li><strong>Cover-Foto</strong> mit Genehmigung von Hugo Rodriguez (<a href="http://walkman-archive.com">The Walkman Archive</a>).</li>
+</ol>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/03---Mein-Retro-Computer--Portable-Music-Devices-e1aqjs5</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/03---Mein-Retro-Computer--Portable-Music-Devices-e1aqjs5</link>
 			<guid isPermaLink="false">b088128e-e4ae-40a7-9971-5d2a0ba6df4a</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Thu, 25 Nov 2021 21:42:50 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/43912517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F40a7f36f-f8e5-96eb-247a-b1c0b6d39902.m4a" length="113410082" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;In Folge 3 der Schulhofbrenner quatschen wir über unsere Erfahrungen rund um den &lt;strong&gt;Bau eines Retro-Computers&lt;/strong&gt;. Worauf haben wir geachtet und wo findet man überhaupt noch Komponenten?&lt;/p&gt;
@@ -254,30 +295,32 @@ Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:duration>3425</itunes:duration>
+			<itunes:duration>00:57:05</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/17552980/17552980-1637873293192-a0531517baef1.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>
-				<![CDATA[#02 - Filesharing & Tony Hawk's Pro Skater 2]]>
-			</title>
-			<description>
-				<![CDATA[<p>In Folge 2 der Schulhofbrenner erinnern wir uns an die goldenen Zeiten, in denen <strong>Filesharing-Services</strong> wie Napster, Kazaa oder auch LimeWire Anfang der 2000er Jahre über Nacht damit drohten, die Musikindustrie komplett zu zerstören.</p><p>Außerdem schwärmen wir noch einmal davon, wie <strong>Tony Hawk's Pro Skater 2</strong> Skateboarding salonfähig machte und wieso THPS2 eines der einflussreichsten Sportspiele wurde.</p><p>Natürlich darf auch die allseits beliebte Spielerunde nicht fehlen, in welcher wir diesmal <strong>Windows Start-Up Sounds</strong> erraten. Wir freuen uns, wenn ihr uns auf Instagram, Facebook oder auch Youtube folgt oder uns ein Review über unser Podcast schreibt.</p><p><strong>Lizenz</strong></p><ol><li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li><li><strong>Start-Sounds</strong> von Windows 3.11, Windows 95, Windows 98, Windows Me, Windows 2000, Windows XP, Windows Vista und Windows NT 5.0: Nutzung mit Genehmigung von Microsoft.</li></ol>
+			<title><![CDATA[#02 - Filesharing & Tony Hawk's Pro Skater 2]]></title>
+			<description><![CDATA[<p>In Folge 2 der Schulhofbrenner erinnern wir uns an die goldenen Zeiten, in denen <strong>Filesharing-Services</strong> wie Napster, Kazaa oder auch LimeWire Anfang der 2000er Jahre über Nacht damit drohten, die Musikindustrie komplett zu zerstören.</p>
+<p>Außerdem schwärmen wir noch einmal davon, wie <strong>Tony Hawk's Pro Skater 2</strong> Skateboarding salonfähig machte und wieso THPS2 eines der einflussreichsten Sportspiele wurde.</p>
+<p>Natürlich darf auch die allseits beliebte Spielerunde nicht fehlen, in welcher wir diesmal <strong>Windows Start-Up Sounds</strong> erraten. Wir freuen uns, wenn ihr uns auf Instagram, Facebook oder auch Youtube folgt oder uns ein Review über unser Podcast schreibt.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+  <li><strong>Start-Sounds</strong> von Windows 3.11, Windows 95, Windows 98, Windows Me, Windows 2000, Windows XP, Windows Vista und Windows NT 5.0: Nutzung mit Genehmigung von Microsoft.</li>
+</ol>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/02---Filesharing--Tony-Hawks-Pro-Skater-2-e18ram0</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/02---Filesharing--Tony-Hawks-Pro-Skater-2-e18ram0</link>
 			<guid isPermaLink="false">d63637c5-2673-44d0-bd56-73c871f4e812</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Fri, 15 Oct 2021 17:26:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/41838720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-15%2F6d5678cd-dc15-f3f5-9128-6a6dc81c678d.m4a" length="94421738" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;In Folge 2 der Schulhofbrenner erinnern wir uns an die goldenen Zeiten, in denen &lt;strong&gt;Filesharing-Services&lt;/strong&gt; wie Napster, Kazaa oder auch LimeWire Anfang der 2000er Jahre über Nacht damit drohten, die Musikindustrie komplett zu zerstören.&lt;/p&gt;
@@ -292,30 +335,31 @@ Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:duration>2716</itunes:duration>
+			<itunes:duration>00:45:16</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/17552980/17552980-1634314966927-c4fa152bde4e5.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>
-				<![CDATA[#01 - Intel vs. AMD & Gamepads ]]>
-			</title>
-			<description>
-				<![CDATA[<p>In der ersten Episode der Schulhofbrenner reden wir über den <strong>Krieg der Prozessoren</strong> zwischen Intel und AMD Ende der 90er Jahre sowie die <strong>Evolution des Gamepads</strong>. Gegen Ende der Folge erwartet den interessierten Zuhörer eine allseits beliebte Fragerunde.</p><p><strong>Lizenz</strong></p><ol><li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li><li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li></ol><p><br></p><p><br></p>
+			<title><![CDATA[#01 - Intel vs. AMD & Gamepads ]]></title>
+			<description><![CDATA[<p>In der ersten Episode der Schulhofbrenner reden wir über den <strong>Krieg der Prozessoren</strong> zwischen Intel und AMD Ende der 90er Jahre sowie die <strong>Evolution des Gamepads</strong>. Gegen Ende der Folge erwartet den interessierten Zuhörer eine allseits beliebte Fragerunde.</p>
+<p><strong>Lizenz</strong></p>
+<ol>
+ <li><strong>Tanooki</strong> von <a href="https://freemusicarchive.org/music/Kupa">Kupa</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für Intro und Outro verwendet.</li>
+ <li><strong>Procrastination Polka</strong> von <a href="https://freemusicarchive.org/music/Dragan_Espenschied#contact-artist">Dragan Espenschied</a> ist lizenziert unter CC BY-NC-SA 3.0. Das Material wurde in gekürzter Form als Hintergrundmusik für für den Kategorieeinspieler verwendet.</li>
+</ol>
+<p><br></p>
+<p><br></p>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
-			</description>
-			<link>https://anchor.fm/die-schulhofbrenner/episodes/01---Intel-vs--AMD--Gamepads-e17m8ek</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/die-schulhofbrenner/episodes/01---Intel-vs--AMD--Gamepads-e17m8ek</link>
 			<guid isPermaLink="false">c187c8bb-398d-4521-bfde-4a46b418955e</guid>
-			<dc:creator>
-				<![CDATA[Retro PCs, Spiele & Co]]>
-			</dc:creator>
+			<dc:creator><![CDATA[Retro PCs, Spiele & Co]]></dc:creator>
 			<pubDate>Tue, 21 Sep 2021 19:48:24 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/69384f50/podcast/play/40624020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-21%2F8a44976e-8ddb-0ac2-f515-5c9de67bb7fd.m4a" length="77966139" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;In der ersten Episode der Schulhofbrenner reden wir über den &lt;strong&gt;Krieg der Prozessoren&lt;/strong&gt; zwischen Intel und AMD Ende der 90er Jahre sowie die &lt;strong&gt;Evolution des Gamepads&lt;/strong&gt;. Gegen Ende der Folge erwartet den interessierten Zuhörer eine allseits beliebte Fragerunde.&lt;/p&gt;
@@ -329,9 +373,9 @@ Send in a voice message: https://anchor.fm/die-schulhofbrenner/message]]>
 
 --- 
 
-Send in a voice message: https://anchor.fm/die-schulhofbrenner/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/die-schulhofbrenner/message</itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:duration>3150</itunes:duration>
+			<itunes:duration>00:52:30</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/17552980/17552980-1632253554886-07961108b37f2.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
